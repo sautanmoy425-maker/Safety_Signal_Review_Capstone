@@ -1,0 +1,121 @@
+Case_ID,Product,Event,Serious,Outcome,Reporter_Type,Region
+SIG-001,StudyDrug-A,ALT increased,True,Recovered,HCP,US
+SIG-002,StudyDrug-A,ALT increased,True,Recovering,HCP,EU
+SIG-003,StudyDrug-A,ALT increased,True,Recovered,Consumer,EU
+SIG-004,StudyDrug-A,ALT increased,True,Recovering,Consumer,India
+SIG-005,StudyDrug-A,ALT increased,True,Recovered,Consumer,India
+SIG-006,StudyDrug-A,ALT increased,False,Recovering,HCP,India
+SIG-007,StudyDrug-A,ALT increased,False,Recovered,HCP,EU
+SIG-008,StudyDrug-A,ALT increased,True,Recovering,HCP,India
+SIG-009,StudyDrug-A,ALT increased,False,Recovered,HCP,India
+SIG-010,StudyDrug-A,ALT increased,False,Recovering,HCP,US
+SIG-011,StudyDrug-A,ALT increased,True,Recovered,HCP,India
+SIG-012,StudyDrug-A,ALT increased,False,Recovering,HCP,US
+SIG-013,StudyDrug-A,ALT increased,False,Recovered,Consumer,India
+SIG-014,StudyDrug-A,ALT increased,False,Recovering,HCP,EU
+SIG-015,StudyDrug-A,ALT increased,False,Recovered,HCP,US
+SIG-016,StudyDrug-A,ALT increased,False,Recovering,HCP,India
+SIG-017,StudyDrug-A,ALT increased,False,Recovered,HCP,US
+SIG-018,StudyDrug-A,Headache,False,Recovered,HCP,EU
+SIG-019,StudyDrug-A,Headache,False,Recovered,HCP,US
+SIG-020,StudyDrug-A,ALT increased,False,Recovering,HCP,Other
+SIG-021,StudyDrug-A,Fatigue,False,Recovered,Consumer,India
+SIG-022,StudyDrug-A,ALT increased,False,Recovering,HCP,Other
+SIG-023,StudyDrug-A,Dizziness,True,Recovered,HCP,US
+SIG-024,StudyDrug-A,Fatigue,False,Recovering,HCP,India
+SIG-025,StudyDrug-A,ALT increased,False,Recovered,HCP,US
+SIG-026,StudyDrug-A,Rash,False,Recovered,HCP,EU
+SIG-027,StudyDrug-A,Headache,False,Recovering,HCP,EU
+SIG-028,StudyDrug-A,Headache,False,Recovered,Consumer,US
+SIG-029,StudyDrug-A,Rash,False,Not recovered,HCP,EU
+SIG-030,StudyDrug-A,Nausea,False,Recovered,HCP,US
+SIG-031,StudyDrug-A,Fatigue,False,Recovered,HCP,US
+SIG-032,StudyDrug-A,ALT increased,False,Recovering,HCP,India
+SIG-033,StudyDrug-A,Headache,False,Recovered,HCP,EU
+SIG-034,StudyDrug-A,Dizziness,False,Not recovered,HCP,Other
+SIG-035,StudyDrug-A,Nausea,False,Recovered,Consumer,US
+SIG-036,StudyDrug-A,Headache,False,Fatal,Consumer,India
+SIG-037,StudyDrug-A,Fatigue,False,Recovered,HCP,India
+SIG-038,StudyDrug-A,ALT increased,False,Recovering,HCP,US
+SIG-039,StudyDrug-A,Vomiting,False,Recovered,Consumer,US
+SIG-040,StudyDrug-A,Headache,False,Not recovered,HCP,US
+SIG-041,StudyDrug-A,Fatigue,False,Recovered,HCP,US
+SIG-042,StudyDrug-A,Nausea,True,Recovering,HCP,EU
+SIG-043,StudyDrug-A,ALT increased,False,Recovered,Consumer,India
+SIG-044,StudyDrug-A,ALT increased,True,Recovering,Consumer,EU
+SIG-045,StudyDrug-A,Nausea,False,Recovering,Consumer,US
+SIG-046,StudyDrug-A,Vomiting,True,Recovered,HCP,US
+SIG-047,StudyDrug-A,Headache,False,Not recovered,HCP,Other
+SIG-048,StudyDrug-A,Fatigue,False,Recovering,HCP,US
+SIG-049,StudyDrug-A,Fatigue,False,Recovered,HCP,India
+SIG-050,StudyDrug-A,Fatigue,False,Recovered,HCP,EU
+SIG-051,StudyDrug-A,ALT increased,False,Recovered,HCP,US
+SIG-052,StudyDrug-A,ALT increased,False,Recovering,HCP,EU
+SIG-053,StudyDrug-A,Headache,False,Recovered,HCP,Other
+SIG-054,StudyDrug-A,Headache,False,Recovered,HCP,US
+SIG-055,StudyDrug-A,Headache,True,Recovered,HCP,India
+SIG-056,StudyDrug-A,Dizziness,False,Recovered,Consumer,Other
+SIG-057,StudyDrug-A,Headache,True,Recovered,HCP,EU
+SIG-058,StudyDrug-A,Dizziness,True,Recovered,HCP,US
+SIG-059,StudyDrug-A,Fatigue,True,Not recovered,HCP,India
+SIG-060,StudyDrug-A,Fatigue,False,Not recovered,Consumer,India
+SIG-061,StudyDrug-A,Fatigue,True,Recovered,HCP,Other
+SIG-062,StudyDrug-A,Dizziness,False,Recovering,HCP,US
+SIG-063,StudyDrug-A,Dizziness,False,Recovered,HCP,EU
+SIG-064,StudyDrug-A,Nausea,False,Recovering,HCP,Other
+SIG-065,StudyDrug-A,Fatigue,False,Recovered,HCP,India
+SIG-066,StudyDrug-A,ALT increased,False,Recovering,HCP,US
+SIG-067,StudyDrug-A,ALT increased,True,Recovered,Consumer,US
+SIG-068,StudyDrug-A,ALT increased,True,Recovering,HCP,Other
+SIG-069,StudyDrug-A,Headache,False,Not recovered,HCP,India
+SIG-070,StudyDrug-A,Fatigue,False,Recovered,HCP,US
+SIG-071,StudyDrug-A,ALT increased,True,Recovered,HCP,EU
+SIG-072,StudyDrug-A,Rash,False,Recovering,HCP,EU
+SIG-073,StudyDrug-A,Vomiting,True,Recovered,HCP,India
+SIG-074,StudyDrug-A,Dizziness,False,Recovering,HCP,Other
+SIG-075,StudyDrug-A,Fatigue,False,Recovered,HCP,US
+SIG-076,StudyDrug-A,Headache,False,Recovered,HCP,India
+SIG-077,StudyDrug-A,Rash,False,Recovering,HCP,EU
+SIG-078,StudyDrug-A,Vomiting,False,Not recovered,HCP,Other
+SIG-079,StudyDrug-A,ALT increased,True,Recovered,HCP,US
+SIG-080,StudyDrug-A,Dizziness,False,Recovered,HCP,EU
+SIG-081,Comparator-B,ALT increased,False,Recovered,HCP,Other
+SIG-082,Comparator-B,ALT increased,False,Recovered,HCP,Other
+SIG-083,Comparator-B,ALT increased,False,Recovered,Consumer,US
+SIG-084,Comparator-B,Nausea,True,Recovering,HCP,Other
+SIG-085,Comparator-B,ALT increased,False,Recovered,HCP,India
+SIG-086,Comparator-B,Fatigue,False,Not recovered,HCP,India
+SIG-087,Comparator-B,Vomiting,False,Recovering,Consumer,US
+SIG-088,Comparator-B,Nausea,True,Recovered,HCP,India
+SIG-089,Comparator-B,Fatigue,True,Recovering,HCP,US
+SIG-090,Comparator-B,Fatigue,False,Recovering,HCP,India
+SIG-091,Comparator-B,Headache,False,Recovering,HCP,US
+SIG-092,Comparator-B,Headache,False,Recovered,Consumer,India
+SIG-093,Comparator-B,Rash,True,Not recovered,HCP,EU
+SIG-094,Comparator-B,Fatigue,False,Not recovered,HCP,EU
+SIG-095,Comparator-B,Dizziness,False,Recovered,HCP,US
+SIG-096,Comparator-C,Nausea,False,Recovering,HCP,EU
+SIG-097,Comparator-C,Dizziness,False,Recovering,HCP,US
+SIG-098,Comparator-C,Dizziness,False,Recovered,HCP,EU
+SIG-099,Comparator-C,Fatigue,False,Recovering,HCP,India
+SIG-100,Comparator-C,Rash,False,Recovering,HCP,EU
+SIG-101,Comparator-C,Fatigue,False,Not recovered,HCP,EU
+SIG-102,Comparator-C,Fatigue,False,Not recovered,HCP,US
+SIG-103,Comparator-C,Headache,False,Recovered,HCP,US
+SIG-104,Comparator-C,Headache,False,Recovering,HCP,India
+SIG-105,Comparator-C,Fatigue,False,Recovered,HCP,US
+SIG-106,Comparator-C,Nausea,False,Fatal,Consumer,US
+SIG-107,Comparator-C,Fatigue,False,Recovered,HCP,US
+SIG-108,Comparator-C,Nausea,False,Recovered,HCP,India
+SIG-109,Comparator-C,Vomiting,False,Not recovered,Consumer,US
+SIG-110,Comparator-C,Dizziness,False,Recovered,Consumer,EU
+SIG-111,Comparator-D,Dizziness,True,Recovered,Consumer,US
+SIG-112,Comparator-D,Nausea,False,Recovered,HCP,EU
+SIG-113,Comparator-D,Headache,False,Not recovered,HCP,India
+SIG-114,Comparator-D,ALT increased,False,Recovered,HCP,EU
+SIG-115,Comparator-D,Nausea,False,Recovered,Consumer,Other
+SIG-116,Comparator-D,Dizziness,False,Recovering,Consumer,US
+SIG-117,Comparator-D,Dizziness,False,Recovered,HCP,Other
+SIG-118,Comparator-D,ALT increased,False,Recovered,HCP,US
+SIG-119,Comparator-D,Vomiting,False,Recovered,HCP,US
+SIG-120,Comparator-D,Nausea,False,Recovering,Consumer,India
